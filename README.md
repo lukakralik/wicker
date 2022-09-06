@@ -4,7 +4,11 @@ Wicker CLI tool counts number of bytes/lines/characters/words in given file(s). 
 
 ### Arguments
 All arguments require numerical values
+
 ```-c``` or ```--bytes``` => displays number of bytes
+
 ```-m``` or ```--chars``` => displays number of characters
+
 ```-l``` or ```--lines``` => displays number of lines
+
 ```-w``` or ```--words``` => displays number of words
